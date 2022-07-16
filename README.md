@@ -1,4 +1,4 @@
-# [COMPLETED] Neuromatch Academy Computational Neuroscience
+# Neuromatch Academy Computational Neuroscience [COMPLETED TUTORIALS]
 This repository is a collection of condensed versions of the completed tutorials part of 
 [Neuromatch Academy's Computational Neuroscience course](https://compneuro.neuromatch.io/tutorials/intro.html) annotated with my notes for personal reference.
 
